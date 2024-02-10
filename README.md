@@ -1,4 +1,6 @@
 # Numerical-Analysis-Machine-Learning
+* Course: `NUMERICAL ANALYSIS FOR MACHINE LEARNING`
+* Proffesor: `Prof. Dr. Miglio Edie`
 
 ## LAB01 - SVD and PCA
 
