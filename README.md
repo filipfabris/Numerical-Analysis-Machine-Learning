@@ -38,3 +38,40 @@
     * Direct definition (sums of products)
     * Convolution through DFT
     * Using scipy.signal.convolve
+
+## LAB05 - Neural Networks
+
+### Introduced
+* Dual numbers - automatic differentiation (AD) - backpropagation
+* Jax library - AD
+
+## LAB06 - Training Algorithms
+
+### Introduced
+* Newton method
+* Quasi-Newton methods: BFGS
+* First order methods: Gradient Descent, Stochastic Gradient Descent, Mini-batch Gradient Descent
+
+### Implementation
+* Stohastic gradient descent with momentum
+* AdaGrad
+* RMSProp
+
+
+## LAB07 - Regularization
+
+### Introduced
+* L1, L2 regularization
+* Gloro initialization
+* Xavier initialization
+
+
+## LAB08 - Classification
+
+### Introduced
+* ANN classifier
+* Softmax function
+* Cross-entropy loss
+* Adversarial attacks
+* PCA with ANN
+
